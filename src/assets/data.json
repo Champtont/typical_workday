@@ -1,0 +1,25 @@
+{
+  "customerSuccessTasks": [
+    {
+      "id": "1",
+      "title": "Calander",
+      "task": "check/maintain calander"
+    },
+    {
+      "id": "2",
+      "title": "Email & Chat",
+      "task": "check/maintain email and chat (respond/follow-up, investigate who to contact)"
+    },
+    {
+      "id": "3",
+      "title": "Tickets",
+      "task": "check/maintain tickets"
+    }
+  ],
+  "technicalTasks": [
+    {
+      "id": "",
+      "task": ""
+    }
+  ]
+}
